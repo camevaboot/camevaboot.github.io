@@ -1,16 +1,10 @@
 title: Test Camille – Evaboot
 description: Blog de test pour présentation à Robin (Evaboot)
+
 author:
   name: Camille
   email: camille@evaboot.com
 
-# Thème utilisé (minimal, propre, simple)
 theme: jekyll-theme-minimal
-
-# Réseaux (facultatif)
-social:
-  github: camevaboot
-
-# Autres options
-show_downloads: false
 markdown: kramdown
+show_downloads: false
